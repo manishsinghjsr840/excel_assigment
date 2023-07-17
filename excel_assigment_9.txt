@@ -1,0 +1,42 @@
+1. What are the different margins options and do we adjust the margins of the excel worksheet?
+
+The margins in Excel are the blank spaces around the worksheet. You can adjust the margins of the worksheet to fit your needs.
+
+To adjust the margins of the worksheet, you can follow these steps:
+
+Click on the File tab.
+In the Print section, click on the Page Setup button.
+In the Page Setup dialog box, click on the Margins tab.
+Enter the desired margins in the Top, Bottom, Left, and Right boxes.
+Click on the OK button.
+2. Set a background for your table created.
+
+To set a background for your table created, you can follow these steps:
+
+Select the cells that you want to set the background for.
+Click on the Format tab.
+In the Background section, click on the Fill button.
+In the Fill dialog box, select the desired background color or pattern.
+Click on the OK button.
+3. What is freeze panes and why do we use freeze panes? Give examples.
+
+Freeze panes is a feature in Excel that allows you to keep certain rows or columns visible while you scroll through the worksheet. This can be helpful when you are working with a large worksheet and you want to keep track of certain information.
+
+For example, you could freeze the top row of a worksheet so that you can always see the column headers while you scroll down the worksheet.
+
+4. What are the different features available within the Freeze Panes command?
+
+The Freeze Panes command has two features:
+
+Freeze Top Row: This feature keeps the top row of the worksheet visible while you scroll down the worksheet.
+Freeze First Column: This feature keeps the first column of the worksheet visible while you scroll to the right.
+5. Explain what the different sheet options present in excel are and what they do?
+
+The sheet options in Excel allow you to customize the appearance and behavior of your worksheets.
+
+Some of the sheet options include:
+
+Page Setup: This option allows you to set the margins, orientation, and print options for your worksheet.
+View: This option allows you to control how your worksheet is displayed, such as whether or not gridlines are visible.
+Protection: This option allows you to protect your worksheet from unauthorized changes.
+Auditing: This option allows you to track changes that have been made to your worksheet.
