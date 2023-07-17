@@ -1,0 +1,31 @@
+Question,Answer
+What do you mean by cells in an excel sheet?,A cell in an Excel sheet is a small rectangular area where you can enter data. Cells are arranged in a grid, with each cell having a unique address. The address of a cell is made up of its row and column number. For example, the cell in the first row and first column has the address A1.
+How can you restrict someone from copying a cell from your worksheet?,There are a few ways to restrict someone from copying a cell from your worksheet. One way is to protect the worksheet. When you protect a worksheet, you can prevent users from making changes to the data in the worksheet, including copying cells. To protect a worksheet, follow these steps:
+1. Click on the "Review" tab.
+2. Click on the "Protect Sheet" button.
+3. In the "Protect Sheet" dialog box, select the "Allow users to select cells" checkbox.
+4. Click on the "OK" button.
+Another way to restrict someone from copying a cell from your worksheet is to use a password. When you protect a worksheet with a password, users will be prompted to enter the password before they can make any changes to the worksheet. To protect a worksheet with a password, follow these steps:
+1. Click on the "Review" tab.
+2. Click on the "Protect Sheet" button.
+3. In the "Protect Sheet" dialog box, select the "Allow users to select cells" checkbox and the "Require a password to unprotect the sheet" checkbox.
+4. Enter a password in the "Password" box.
+5. Click on the "OK" button.
+How to move or copy the worksheet into another workbook?,To move or copy a worksheet into another workbook, follow these steps:
+1. Open the workbook that contains the worksheet you want to move or copy.
+2. Right-click on the worksheet name.
+3. Select "Move or Copy" from the context menu.
+4. In the "Move or Copy" dialog box, select the workbook you want to move or copy the worksheet to.
+5. Select the "Move" or "Copy" radio button.
+6. Click on the "OK" button.
+Which key is used as a shortcut for opening a new window document?,The `Ctrl`+`N` keys are used as a shortcut for opening a new window document in Excel.
+What are the things that we can notice after opening the Excel interface?,After opening the Excel interface, you will notice the following things:
+* The Excel ribbon, which contains the various commands and features that you can use in Excel.
+* The worksheet, which is the area where you enter and edit data.
+* The formula bar, which is located below the ribbon and displays the formula that is currently being entered or edited.
+* The status bar, which is located at the bottom of the Excel window and displays information about the current worksheet, such as the current cell address and the number of errors in the worksheet.
+When to use a relative cell reference in excel?,A relative cell reference is a cell reference that changes when you copy or move a formula. For example, if you have a formula in cell A1 that refers to cell A2, and you copy the formula to cell B1, the formula in cell B1 will change to refer to cell B2. Relative cell references are useful when you want to copy formulas to other cells and have the formulas update to reflect the new cell references.
+Here are some examples of when you might use a relative cell reference:
+* When you want to copy a formula down a column or across a row.
+* When you want to copy a formula to a new worksheet.
+* When you want to copy a formula to a new workbook.
