@@ -1,0 +1,32 @@
+
+1. How and when to use the AutoSum command in excel?
+
+The AutoSum command in Excel is used to automatically add up the values in a range of cells. To use the AutoSum command, you can select the range of cells that you want to add up, and then click on the AutoSum button in the Home tab.
+
+You can also use the Alt+= keyboard shortcut to perform the AutoSum command.
+
+The AutoSum command is useful when you want to quickly add up a range of cells. For example, you could use the AutoSum command to add up the sales figures for each month in a sales report.
+
+2. What is the shortcut key to perform AutoSum?
+
+The shortcut key to perform AutoSum is Alt+=.
+
+3. How do you get rid of Formula that omits adjacent cells?
+
+If you have a formula that omits adjacent cells, you can use the F2 key to edit the formula. When you press the F2 key, the formula will be displayed in the formula bar. You can then add the adjacent cells to the formula by typing them in or by using the mouse to select them.
+
+4. How do you select non-adjacent cells in Excel 2016?
+
+To select non-adjacent cells in Excel 2016, you can hold down the Ctrl key while you select the cells. For example, to select cells A1, B2, and C3, you would hold down the Ctrl key and click on cells A1, B2, and C3.
+
+You can also select non-adjacent cells by dragging the mouse while you hold down the Ctrl key.
+
+5. What happens if you choose a column, hold down the Alt key and press the letters ocw in quick succession?
+
+If you choose a column, hold down the Alt key and press the letters ocw in quick succession, Excel will hide the column. To unhide the column, you can press Alt+`` (the tilde key) and then press the letters ocw again.
+
+6. If you right-click on a row reference number and click on Insert, where will the row be added?
+
+If you right-click on a row reference number and click on Insert, the row will be added below the row that you clicked on.
+
+I hope this helps! Let me know if you have any other questions.
