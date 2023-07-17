@@ -1,0 +1,52 @@
+1. What do you mean by AutoComplete feature in Excel and what are the benefits of using this feature?
+
+AutoComplete is a feature in Excel that automatically suggests possible completions for text that you are typing in a cell. This can be helpful when you are typing in a long cell value, or when you are typing in a value that you have typed in before.
+
+The benefits of using the AutoComplete feature include:
+
+It can save you time by automatically suggesting possible completions for text that you are typing.
+It can help you to avoid errors by suggesting correct spellings of words.
+It can help you to be more consistent in the way that you enter data.
+2. Explain working with workbooks and working with cells.
+
+A workbook in Excel is a file that contains one or more worksheets. A worksheet is a grid of cells that you can use to enter data and formulas.
+
+To work with workbooks and cells, you can use the following commands:
+
+New: This command creates a new workbook.
+Open: This command opens an existing workbook.
+Save: This command saves a workbook.
+Save as: This command saves a workbook with a new name or location.
+Close: This command closes a workbook.
+Select: This command selects a cell or range of cells.
+Enter: This command enters data into a cell.
+Formula bar: This bar displays the formula that is entered in the active cell.
+3. What is fill handle in Excel and why do we use it?
+
+The fill handle is a small black square that appears in the lower-right corner of a cell when you select it. You can use the fill handle to copy the contents of a cell to adjacent cells.
+
+We use the fill handle because it is a quick and easy way to copy the contents of a cell to adjacent cells. For example, if you have a column of numbers and you want to copy the numbers to the next column, you can use the fill handle to do this quickly and easily.
+
+4. Give some examples of using the fill handle.
+
+Here are some examples of using the fill handle:
+
+To copy the contents of a cell to the next cell: Select the cell that you want to copy, and then drag the fill handle to the next cell.
+To copy the contents of a cell to multiple cells: Select the cell that you want to copy, and then drag the fill handle to the last cell that you want to copy the contents to.
+To copy the contents of a cell and fill it with a series of numbers: Select the cell that you want to copy, and then drag the fill handle to the last cell that you want to fill with numbers.
+5. Describe flash fill and what the different ways to access the flash fill are.
+
+Flash Fill is a feature in Excel that automatically fills in a series of cells based on the pattern that you have entered in the first cell. For example, if you enter the first few letters of a state name in a cell, Flash Fill will automatically fill in the rest of the state name in the adjacent cells.
+
+There are two ways to access Flash Fill:
+
+The Autocomplete list: When you start typing in a cell, Excel will display a list of possible completions in the Autocomplete list. If you see the state name that you want to fill in the list, you can click on it to automatically fill in the rest of the state name.
+The Flash Fill button: The Flash Fill button is located in the Home tab, in the Editing group. You can click on the Flash Fill button to automatically fill in a series of cells based on the pattern that you have entered in the first cell.
+6. Extract first name and last name from the mail id and then from the address column, extract the city, state, and pin code using the flash fill. Given below is an example of the columns you have to create. Paste the screenshot of what you have created using the flash fill command.
+
+Mail Id, Address, First name, Last name, State, City, Pincode
+abc@gmail.com, abc Street, ABC, XYZ, Delhi, 110001
+xyz@gmail.com, XYZ Street, XYZ, PQR, Mumbai, 400001
+To extract first name and last name from the mail id and then from the address column, extract the city, state, and pin code using the flash fill, you can follow these steps:
+
+In the Mail Id column, enter the first few
