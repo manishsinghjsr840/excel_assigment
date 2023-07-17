@@ -1,0 +1,53 @@
+1. Using Insert Function, give examples of any function available in the different dropdowns present in the function library. For example AutoSum, Recently Used, Text, Date & Time, etc.
+
+Here are some examples of functions available in the different dropdowns present in the function library:
+
+AutoSum: This function automatically sums the values in a range of cells.
+Recently Used: This dropdown lists the functions that you have used recently.
+Text: This dropdown lists functions that work with text, such as LEFT, RIGHT, and LEN.
+Date & Time: This dropdown lists functions that work with dates and times, such as TODAY, NOW, and DAY.
+Financial: This dropdown lists functions that work with financial data, such as PMT, PV, and IRR.
+Statistical: This dropdown lists functions that work with statistical data, such as AVERAGE, MEDIAN, and STDEV.
+2. What are the different ways you can select columns and rows?
+
+There are a few different ways you can select columns and rows in Excel:
+
+Using the mouse: You can select a column or row by clicking and dragging the mouse over the column or row header.
+Using the keyboard: You can select a column or row by pressing Ctrl+Shift and then pressing the number of the column or row that you want to select.
+Using the formula bar: You can select a column or row by typing the column or row letter or number in the formula bar.
+3. What is AutoFit and why do we use it?
+
+AutoFit is a feature in Excel that automatically adjusts the width of columns and the height of rows to fit the contents of the cells. You can use AutoFit to make sure that your data is displayed neatly in your worksheet.
+
+4. How can you insert new rows and columns into the existing table?
+
+To insert new rows and columns into an existing table, you can follow these steps:
+
+Click on the cell where you want to insert the new row or column.
+Click on the Insert tab.
+In the Rows & Columns group, click on the Insert Row or Insert Column button.
+The new row or column will be inserted at the location of the active cell.
+5. How do you hide and unhide columns in excel?
+
+To hide and unhide columns in Excel, you can follow these steps:
+
+Click on the column header that you want to hide or unhide.
+Click on the Format tab.
+In the Cells group, click on the Format button.
+In the Format Cells dialog box, select the Column tab.
+Check or uncheck the Hide checkbox.
+Click on the OK button.
+6. Create an appropriate table within the worksheet and use different functions available in the AutoSum command.
+
+Here is an example of a table that you can create in Excel and use different functions available in the AutoSum command:
+
+Month | Sales
+------- | --------
+January | 1000
+February | 2000
+March | 3000
+April | 4000
+May | 5000
+You can use the AutoSum command to automatically sum the values in the Sales column. To do this, select the range of cells that you want to sum, and then click on the AutoSum button in the Home tab.
+
+You can also use other functions available in the AutoSum command, such as AVERAGE, MAX, and MIN. For example, you could use the AVERAGE function to calculate the average sales for the month.
