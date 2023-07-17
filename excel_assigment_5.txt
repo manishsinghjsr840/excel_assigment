@@ -1,0 +1,57 @@
+1. How many types of conditions are available in conditional formatting on Excel?
+
+There are 6 types of conditions available in conditional formatting on Excel:
+
+Cell Value: This condition allows you to format cells based on their value. For example, you could format cells that are greater than 100 in red.
+Text: This condition allows you to format cells based on their text content. For example, you could format cells that contain the word "Sales" in blue.
+Date: This condition allows you to format cells based on their date value. For example, you could format cells that are today's date in bold.
+Time: This condition allows you to format cells based on their time value. For example, you could format cells that are between 9am and 5pm in green.
+Formula: This condition allows you to format cells based on the results of a formula. For example, you could format cells that contain the value of a specific formula in yellow.
+Custom: This condition allows you to create your own custom condition. For example, you could format cells that contain the value of a specific cell in a different font.
+2. How to insert border in Excel with Format Cells dialog?
+
+To insert a border in Excel with the Format Cells dialog, you can use the following steps:
+
+Select the cells that you want to add a border to.
+Click on the Home tab.
+In the Cells group, click on the Format button.
+In the Format Cells dialog box, select the Border tab.
+Select the border style, color, and width that you want to use.
+Click on the OK button.
+3. How to Format Numbers as Currency in Excel?
+
+To format numbers as currency in Excel, you can use the following steps:
+
+Select the cells that you want to format.
+Click on the Home tab.
+In the Number group, click on the Currency button.
+In the Number group, select the currency format that you want to use.
+Click on the OK button.
+4. What are the steps to format numbers in Excel with the Percent style?
+
+To format numbers in Excel with the Percent style, you can use the following steps:
+
+Select the cells that you want to format.
+Click on the Home tab.
+In the Number group, click on the Percent button.
+In the Number group, select the percent format that you want to use.
+Click on the OK button.
+5. What is a shortcut to merge two or more cells in excel?
+
+The shortcut to merge two or more cells in Excel is Ctrl+E.
+
+6. How do you use text commands in Excel?
+
+Text commands in Excel allow you to manipulate text in cells. For example, you could use a text command to convert all of the text in a cell to uppercase or lowercase.
+
+To use a text command in Excel, you can use the following syntax:
+
+=TEXT(value, format)
+Where value is the text that you want to format, and format is the format that you want to use.
+
+For example, the following formula would convert the text "Hello World" to uppercase:
+
+=TEXT("Hello World", "U")
+The U in the format string tells Excel to convert the text to uppercase.
+
+There are a number of different text commands that you can use in Excel. For a complete list of text commands, you can refer to the Excel help documentation.
