@@ -1,0 +1,98 @@
+
+1. What is a Macro? How is it useful in excel or in your daily work?
+
+A macro is a sequence of commands that can be recorded and played back later. Macros are useful in Excel because they can automate repetitive tasks. For example, you could create a macro to automatically format a table, or to send out a mass email. Macros can also be used to create custom functions, or to add new features to Excel.
+
+In my daily work, I use macros to automate tasks such as:
+
+Formatting tables
+Sending out mass emails
+Creating custom functions
+Adding new features to Excel
+Macros can save me a lot of time and effort, and they allow me to be more productive.
+
+
+
+2. What is VBA? Write its full form and briefly explain why VBA is used in excel?
+
+VBA stands for Visual Basic for Applications. It is a programming language that is used to create macros in Excel. VBA is a powerful language that allows you to do a lot of things with Excel, such as:
+
+Automate repetitive tasks
+Create custom functions
+Add new features to Excel
+Control other applications
+VBA is a very versatile language, and it can be used for a wide variety of tasks. If you are looking for a way to automate your work in Excel, VBA is a great option.
+
+
+
+3. How do you record a macro? Write detailed steps to create a macro to automatically make the following table in bold and to create borders for it in excel.
+
+
+To record a macro, you need to open the Visual Basic Editor. You can do this by pressing Alt+F11. Once the Visual Basic Editor is open, click on the "Macros" button. In the "Macros" dialog box, type a name for your macro and click on the "Record" button.
+
+Now, perform the actions that you want to automate. For example, if you want to make a table in bold and create borders for it, you would select the table and then click on the "Bold" button and the "Borders" button.
+
+Once you have finished performing the actions, click on the "Stop" button. Your macro will now be saved.
+
+To run your macro, click on the "Macros" button again and select your macro from the list. Your macro will now run and perform the actions that you recorded.
+
+Here are the detailed steps to create a macro to automatically make the following table in bold and to create borders for it in Excel:
+
+Open the Excel workbook that contains the table that you want to format.
+Select the table.
+Press Alt+F11 to open the Visual Basic Editor.
+In the Visual Basic Editor, click on the "Macros" button.
+In the "Macros" dialog box, type a name for your macro, such as "FormatTable".
+Click on the "Record" button.
+Click on the "Bold" button and the "Borders" button.
+Click on the "Stop" button.
+Your macro will now be saved.
+To run your macro, click on the "Macros" button again and select your macro from the list.
+
+
+
+
+4. What do you mean when we say VBA Editor?
+
+The VBA Editor is a software application that allows you to create and edit macros in Excel. It is a powerful tool that can be used to automate repetitive tasks, create custom functions, and add new features to Excel.
+
+
+
+
+5. Briefly describe the interface of a VBA editor? What is properties window? And what is watch window? How do you display these windows?
+
+The interface of the VBA Editor is divided into three main sections:
+
+The Project Explorer window shows all of the projects that are open in the VBA Editor.
+The Code Editor window is where you can write and edit macros.
+The Properties window shows the properties of the object that is currently selected in the Code Editor window.
+The Watch Window is a window that allows you to monitor the values of variables and expressions as your macro runs.
+
+To display the Properties window, click on the "View" menu and select "Properties Window".
+
+To display the Watch Window, click on the "View" menu and select "Watch Window".
+
+
+
+
+6. What is an immediate Window and what is it used for?
+
+The Immediate Window is a window that allows you to execute VBA code and see the results immediately. This can be useful for debugging macros or testing code.
+
+To display the Immediate Window, click on the "View" menu and select "Immediate Window"
+
+profile picture
+1. What are comments and what is the importance if commenting in any
+code?
+2. What is Call Statement and when do you use this statement?
+3. How do you compile a code in VBA? What are some of the problem that
+you might face when you don’t compile a code?
+4. What are hot keys in VBA? How can you create your own hot keys?
+5. Create a macro and shortcut key to find the square root of the following
+numbers 665, 89, 72, 86, 48, 32, 569, 7521
+6. What are the shortcut keys used to
+a. Run the code
+b. Step into the code
+c. Step out of code
+d. Reset the code
+
