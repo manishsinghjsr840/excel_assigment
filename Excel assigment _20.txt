@@ -1,0 +1,152 @@
+1. Write a VBA code to select the cells from A5 to C10. Give it a name “Data Analytics” and fill the cells with the following cells “This is Excel VBA”
+
+Sub SelectDataAnalytics()
+
+Dim my_range As Range
+
+Set my_range = Range("A5:C10")
+
+my_range.Name = "Data Analytics"
+
+my_range.Value = "This is Excel VBA"
+
+End Sub
+This code will select the cells from A5 to C10 and give them the name "Data Analytics". It will then fill the cells with the text "This is Excel VBA".
+
+
+2. Use the above data and write a VBA code using the following statements to display in the next column if the number is odd or even
+a. IF ELSE statement
+b. Select Case statement
+c. For Next Statement
+
+a. IF ELSE statement
+
+Sub IsOddOrEven()
+
+Dim my_number As Integer
+Dim my_result As String
+
+For i = 5 To 10
+
+my_number = Cells(i, 1).Value
+
+If my_number Mod 2 = 0 Then
+
+my_result = "Even"
+
+Else
+
+my_result = "Odd"
+
+End If
+
+Cells(i, 2).Value = my_result
+
+Next i
+
+End Sub
+This code will use an IF ELSE statement to determine if the number in a cell is odd or even. If the number is even, it will display "Even" in the next column. If the number is odd, it will display "Odd" in the next column.
+
+b. Select Case statement
+
+Sub IsOddOrEven()
+
+Dim my_number As Integer
+
+For i = 5 To 10
+
+my_number = Cells(i, 1).Value
+
+Select Case my_number Mod 2
+
+Case 0
+
+Cells(i, 2).Value = "Even"
+
+Case Else
+
+Cells(i, 2).Value = "Odd"
+
+End Select
+
+Next i
+
+End Sub
+This code will use a Select Case statement to determine if the number in a cell is odd or even. If the number is even, it will display "Even" in the next column. If the number is odd, it will display "Odd" in the next column.
+
+c. For Next Statement
+
+Sub IsOddOrEven()
+
+Dim my_number As Integer
+Dim my_result As String
+
+For i = 5 To 10
+
+my_number = Cells(i, 1).Value
+
+my_result = If(my_number Mod 2 = 0, "Even", "Odd")
+
+Cells(i, 2).Value = my_result
+
+Next i
+
+End Sub
+This code will use a For Next statement to iterate through the cells from A5 to C10. It will then use the If statement to determine if the number in a cell is odd or even. If the number is even, it will display "Even" in the next column. If the number is odd, it will display "Odd" in the next column.
+
+
+
+
+3. What are the types of errors that you usually see in VBA?
+
+The types of errors that you usually see in VBA are:
+
+Compile-time errors: These errors occur when there is a problem with the syntax of your code.
+Runtime errors: These errors occur when your code is syntactically correct, but there is a problem with the logic of your code.
+Logic errors: These errors occur when your code is syntactically and logically correct, but it does not produce the desired results.
+
+
+
+4. How do you handle Runtime errors in VBA?
+
+There are a few ways to handle Runtime errors in VBA:
+
+Use the On Error Resume Next statement: This statement tells VBA to ignore any Runtime errors and continue executing your code.
+Use the Try...Catch...Finally statement: This statement allows you to handle Runtime errors in a more structured way.
+Use the Err object: This object provides information about Runtime errors, such as the type of error and the line number where the error occurred.
+
+
+
+5. Write some good practices to be followed by VBA users for handling errors
+
+
+Here are some good practices to be followed by VBA users for handling errors:
+
+**Use the On
+
+
+
+6. What is UDF? Why are UDF’s used? Create a UDF to multiply 2
+numbers in VBA
+
+A UDF, or User Defined Function, is a function that you create in VBA. UDFs are used to perform specific tasks that you need to do repeatedly in your code. For example, you could create a UDF to multiply two numbers, or to find the factorial of a number.
+
+There are a few reasons why UDFs are used:
+
+To improve code readability: UDFs can help to make your code more readable by grouping related code together.
+To improve code performance: UDFs can be more efficient than using the built-in Excel functions, especially if you need to perform the same calculation multiple times.
+To reuse code: UDFs can be reused in multiple places in your code, which can save you time and effort.
+Here is a UDF to multiply two numbers in VBA:
+
+Function MultiplyNumbers(number1 As Integer, number2 As Integer) As Integer
+
+MultiplyNumbers = number1 * number2
+
+End Function
+This UDF takes two integers as input and returns the product of those integers. The UDF is declared as a Function, which means that it returns a value. The UDF also has two parameters, number1 and number2, which are the two integers that the UDF will multiply. The UDF then multiplies the two integers and returns the product.
+
+To use the UDF, you would simply call it like any other function. For example, the following code would multiply the numbers 10 and 20 and store the result in the variable product:
+
+Dim product As Integer
+
+product = MultiplyNumbers(10, 20)
